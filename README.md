@@ -13,10 +13,10 @@ Hi, I’m Lavanya M S 👋
   
 ## Python Programs
    The following basic python programs are included:
-   -Hello world
-   -even or Odd number
-   -simple Calculator
-   -prime Number check
+   - Hello world
+   - even or Odd number
+   - simple Calculator
+   - prime Number check
    
 ## Projects Included
 - Python Basic Programs (Beginner level)
