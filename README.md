@@ -10,7 +10,14 @@ Hi, I’m Lavanya M S 👋
 - SQL
 - HTML & CSS (Basics)
 - GitHub
-
+  
+##Python Programs
+   The following basic python programs are included:
+   -Hello world
+   -even or Odd number
+   -simple Calculator
+   -prime Number check
+   
 ## Projects Included
 - Python Basic Programs (Beginner level)
 - Academic MCA Projects
